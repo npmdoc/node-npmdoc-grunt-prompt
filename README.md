@@ -1,9 +1,14 @@
-# api documentation for  [grunt-prompt (v1.3.3)](https://github.com/dylang/grunt-prompt)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-prompt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-prompt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-prompt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-prompt)
+# npmdoc-grunt-prompt
+
+#### api documentation for  [grunt-prompt (v1.3.3)](https://github.com/dylang/grunt-prompt)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-prompt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-prompt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-prompt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-prompt)
+
 #### Interactive prompt for your Grunt config using console checkboxes, text input with filtering, password fields.
 
-[![NPM](https://nodei.co/npm/grunt-prompt.png?downloads=true)](https://www.npmjs.com/package/grunt-prompt)
+[![NPM](https://nodei.co/npm/grunt-prompt.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-prompt)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-prompt/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-prompt_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-prompt/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-prompt/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-prompt/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-prompt/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-prompt/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-prompt/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Dylan Greene",
-        "email": "dylang@gmail.com"
+        "name": "Dylan Greene"
     },
     "bugs": {
         "url": "https://github.com/dylang/grunt-prompt/issues"
@@ -63,13 +67,11 @@
     "main": "Gruntfile.js",
     "maintainers": [
         {
-            "name": "dylang",
-            "email": "dylang@gmail.com"
+            "name": "dylang"
         }
     ],
     "name": "grunt-prompt",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/dylang/grunt-prompt.git"
@@ -80,16 +82,6 @@
     "version": "1.3.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-prompt](#apidoc.module.grunt-prompt)
-
-
-
-# <a name="apidoc.module.grunt-prompt"></a>[module grunt-prompt](#apidoc.module.grunt-prompt)
 
 
 
