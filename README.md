@@ -1,6 +1,6 @@
 # npmdoc-grunt-prompt
 
-#### api documentation for  [grunt-prompt (v1.3.3)](https://github.com/dylang/grunt-prompt)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-prompt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-prompt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-prompt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-prompt)
+#### basic api documentation for  [grunt-prompt (v1.3.3)](https://github.com/dylang/grunt-prompt)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-prompt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-prompt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-prompt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-prompt)
 
 #### Interactive prompt for your Grunt config using console checkboxes, text input with filtering, password fields.
 
@@ -79,7 +79,8 @@
     "scripts": {
         "test": "grunt mochacli --stack"
     },
-    "version": "1.3.3"
+    "version": "1.3.3",
+    "bin": {}
 }
 ```
 
